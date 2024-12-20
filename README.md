@@ -11,8 +11,27 @@ Academic project to study a medical database and predict heart attack risk using
 
 ## Modules used : 
 - Spark
-- Sklearn
+- Scikit learn
 - PyTorch
+
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://fr.wikipedia.org/wiki/Fichier:Apache_Spark_logo.svg" alt="Spark" width="40" height="40"/>
+</a>
+
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+  <img src="https://en.m.wikipedia.org/wiki/File:Scikit_learn_logo_small.svg" alt="Sklearn" width="40" height="40"/>
+</a>
+
+<a href="https://pytorch.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+</a>
+
+## Summary
+
+After accessing the data, we analyze it to understand the different features of the problem and the correlation between them. 
+<img src="Resources/output" alt="Age distribution in the dataset" width="40" height="40"/>
+
+
 
 ## Authors
 
