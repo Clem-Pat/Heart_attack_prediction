@@ -56,11 +56,14 @@ We then tried to train a random forest model, with various hyperparameters. Unfo
 <br>
 Here, we observe that even with different tree numbers and tree depths, none of the models converged.
 
+
+## Conclusion 
 Finally we concluded that the dataset was too small to make any model converge: 
 <br>
 <img src="/Resources/output7.png" alt="Models accuracy" width="600"/>
 <br>
-
+This means that we cannot predict the heart attack risk using the patient features. 
+In the next version of this study, we will use data augmentation to do oversampling. And we will try to train models to predict heart attack
 
 
 ## Authors
