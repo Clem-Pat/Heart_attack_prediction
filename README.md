@@ -15,11 +15,11 @@ Academic project to study a medical database and predict heart attack risk using
 - PyTorch
 
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://fr.wikipedia.org/wiki/Fichier:Apache_Spark_logo.svg" alt="Spark" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="40" height="40"/>
 </a>
 
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-  <img src="https://en.m.wikipedia.org/wiki/File:Scikit_learn_logo_small.svg" alt="Sklearn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Sklearn" width="40" height="40"/>
 </a>
 
 <a href="https://pytorch.org" target="_blank" rel="noreferrer">
