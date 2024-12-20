@@ -29,8 +29,16 @@ Academic project to study a medical database and predict heart attack risk using
 ## Summary
 
 After accessing the data, we analyze it to understand the different features of the problem and the correlation between them. 
-<img src="Resources/output" alt="Age distribution in the dataset" width="40" height="40"/>
+<br>
+<img src="/Resources/output.png" alt="Age distribution in the dataset" width="40" height="40"/>
+<br>
+We checked for class balance; here, we can see that all age groups are well represented in the dataset. 
 
+We can also observe the risk of being a victim of a heart attack depending on gender and tobacco consumption. 
+<br>
+<img src="/Resources/output1.png" alt="Heart attack risk depending on gender" width="40" height="40"/>
+<img src="/Resources/output2.png" alt="Heart attack risk depending on tobacco consumption" width="40" height="40"/>
+<br>
 
 
 ## Authors
